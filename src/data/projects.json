@@ -1,27 +1,27 @@
 [
   {
-    "name": "Project 1",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "link": "https://github.com/"
+    "name": "React Portfolio",
+    "description": "A webpage for my Portfolio using React, which contains projects, about me and skills and also links to Linkedin and Github.",
+    "link": "https://github.com/Khitab90/React-Portfolio"
   },
   {
-    "name": "Project 2",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "link": "https://github.com/"
+    "name": "React Weather App",
+    "description": "A web application to show weather conditions for any city by fetching data from OpenWeather API and React for the UI.",
+    "link": "https://github.com/Khitab90/React-weather-app"
   },
   {
-    "name": "Project 3",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "link": "https://github.com/"
+    "name": "Weather App",
+    "description": "A web application to show weather conditions according to the geolocation of the user, using OpenWeather API and HTML, CSS and Vanilla JS for the UI.",
+    "link": "https://github.com/Khitab90/WeatherApp"
   },
   {
-    "name": "Project 4",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "link": "https://github.com/"
+    "name": "MERN Shopping List",
+    "description": "A web application to add, update, read and delete items from a list, using React for frontend, Node/Express for the bakcend and MongoDB as database.",
+    "link": "https://github.com/Khitab90/mern_shoppinglist"
   },
   {
-    "name": "Project 5",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "link": "https://github.com/"
+    "name": "React Task Tracker",
+    "description": "A web application to track the list of your tasks using React.",
+    "link": "https://github.com/Khitab90/React-Task-Tracker"
   }
 ]
